@@ -59,7 +59,6 @@ class Hello {
 아이유 | 여자
 마마무 | 여자
 
-?? ?? ?? ?? ?? ?? ?? ?? 
 :+1::angry::smile::fried_egg::hugs::heart_decoration::heart_eyes::full_moon:
 
 Markup Language : 태그로 감싸는 거
