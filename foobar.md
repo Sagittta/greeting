@@ -6,6 +6,7 @@ int main() {
     printf("HELLO WORLD");
     printf("안녕 세상아");
 }
+```
 ## JAVA HELLO WORLD EXAMPLE
 ```java
 class Hello {
