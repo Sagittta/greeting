@@ -1,3 +1,10 @@
-This file is Foobar.md.
-ÀÌ ÆÄÀÏÀº Foobar.mdÀÔ´Ï´Ù.
-ª³ªÎ¡¡«Ñ«¤«ëªÏ¡¡Foobar.mdªÇª¹¡£
+## JAVA HELLO WORLD EXAMPLE
+```java
+class Hello {
+  public static void main(String ar[]) {
+    System.out.println("Eng : This file is Foobar.md.");
+    System.out.println("Kor : ì´ íŒŒì¼ì€ Foobar.mdì…ë‹ˆë‹¤.");
+    System.out.println("Jap : ã“ã®ã€€ãƒ‘ã‚¤ãƒ«ã¯ã€€Foobar.mdã§ã™ã€‚);
+  }
+}
+```
