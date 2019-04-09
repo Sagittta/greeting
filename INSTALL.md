@@ -1,4 +1,4 @@
-﻿# Install 사양
+﻿# Install 4Sheep
 * over Windows10
 * over 닷넷프레임워크 4
 
