@@ -1,3 +1,8 @@
-This file is Foobar.md.
-ÀÌ ÆÄÀÏÀº Foobar.mdÀÔ´Ï´Ù.
-ª³ªÎ¡¡«Ñ«¤«ëªÏ¡¡Foobar.mdªÇª¹¡£
+## C EXAMPLE
+```c
+#include <stdio.h>
+
+int main() {
+    printf("HELLO WORLD");
+    printf("ì•ˆë…• ì„¸ìƒì•„");
+}
